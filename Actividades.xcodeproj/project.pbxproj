@@ -10,9 +10,23 @@
 		3547C5222E4FFE8900B8BECA /* Actividades.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Actividades.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3547C5332E4FFEC900B8BECA /* Exceptions for "Actividades" folder in "Actividades" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				stjldbl1.ttf,
+			);
+			target = 3547C5212E4FFE8900B8BECA /* Actividades */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3547C5242E4FFE8900B8BECA /* Actividades */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3547C5332E4FFEC900B8BECA /* Exceptions for "Actividades" folder in "Actividades" target */,
+			);
 			path = Actividades;
 			sourceTree = "<group>";
 		};
@@ -91,6 +105,7 @@
 			knownRegions = (
 				en,
 				Base,
+				it,
 			);
 			mainGroup = 3547C5192E4FFE8900B8BECA;
 			minimizedProjectReferenceProxies = 1;
@@ -256,6 +271,8 @@
 				DEVELOPMENT_TEAM = 8S6CG923B7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Actividades/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +301,8 @@
 				DEVELOPMENT_TEAM = 8S6CG923B7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Actividades/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
