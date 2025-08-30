@@ -6,4 +6,16 @@
   
 */
 
-
+"titulo" = "In una galassia molto, molto lontana";
+"StarWars" = "
+C’era una volta un testo molto lungo
+che girava intorno alla galassia.
+Questo testo era il terrore di ogni
+Jedi che osava avvicinarsi, poiché
+li ipnotizzava a finirlo—
+cosa che segnava la loro rovina,
+dato che era impossibile terminarlo.
+La leggenda narra che l’unico modo per fermarlo
+è riunire tutto l’ISND
+così che insieme possano sconfiggere
+il lato oscuro di Swift.";
